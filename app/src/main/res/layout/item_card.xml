@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/card"
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/_3sdp"
+    android:layout_marginLeft="@dimen/_10sdp"
+    android:layout_marginRight="@dimen/_10sdp"
+    android:layout_marginTop="@dimen/_3sdp"
+    app:cardBackgroundColor="#fafafa"
+    card_view:cardBackgroundColor="@android:color/white"
+    card_view:cardCornerRadius="@dimen/_2sdp"
+    card_view:cardElevation="@dimen/_5sdp">
+
+    <LinearLayout
+        android:id="@+id/card_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+       <!--<android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginBottom="@dimen/_3sdp"
+            card_view:cardBackgroundColor="@android:color/white"
+            card_view:cardCornerRadius="@dimen/_2sdp"
+            card_view:cardElevation="@dimen/_5sdp">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_140sdp"
+                app:srcCompat="@drawable/doglogo"
+                android:transitionName="dogImage" />
+        </android.support.v7.widget.CardView> -->
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_28sdp"
+            android:background="#fafafa"
+            android:elevation="0dp"
+            android:fontFamily="monospace"
+            android:paddingLeft="@dimen/_10sdp"
+            android:text="testText"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_20sdp"
+            android:transitionName="dogBreed" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

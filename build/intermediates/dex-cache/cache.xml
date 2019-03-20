@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/6ad3f1e97175cd438203129255f4b064b22d7b63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_f8d1d6c23c148e2bf321a343ccb64956fed0939c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.2.1_9a9c82226f6540b7d44c98293f961bcc6a97a7ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/Android/Apps/AdastraProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7086d553417c2e2072fa94d7bc0e4458610654af">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bdd095a0c06296e2ebbbb9dcd15b52f4a4c41e04/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/2151fcf3b8661e09d88297e42430c3fa83b7f36a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_b47149ca8b78e93d208fa2023619277314921faa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/ef95d50c329414db68e58dff443e6825bd954879/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_e8bbc81ee2a04687e6fd883297c26a0028fd0ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/a4515188d4cd4984739292d59d34e542f6ac4310/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_a1e2dc0c3fd340080be97f93799526fb07aa8ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/gson-2.7_ee9ac5c8c1791ad7f3034538f45c651fa3367aff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/3c56be1061e45c5572668b7bd3dc380031fd6280/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bae6c88374617d895bfe46b31f29673389629584/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/3c56be1061e45c5572668b7bd3dc380031fd6280/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_bae6c88374617d895bfe46b31f29673389629584.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_1c0bf42220e333c3676b7c02970f2866007f4552/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/okio-1.11.0_d2d569976a6fc40ceff1596312bb36375f394c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_1c0bf42220e333c3676b7c02970f2866007f4552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_1c2aca89d9ea91ecb96d4f7463078a54e0ecad29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/fea008f6d61e2bad6b2c55accc0e63101ba6e048/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_7736245508e22a819c0a815c8bb5e08788310004.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_d2d569976a6fc40ceff1596312bb36375f394c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_42919679527e3dd98af51e21dff72a646c5fd724.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/Android/Apps/AdastraProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b6cf4c3109073b3fb41774f6d91f45cbf3182ed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_ee9ac5c8c1791ad7f3034538f45c651fa3367aff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/084bf18b523c31a775ed3707772b48b5c55af211/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_354b5ea06b9194b4c0604378cbad31c7df84ec2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/077f80811854c828e1603a3c28be4dc5a6de83ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_e3830e3ab6094a58514e3f22c43d4e935e8ba4c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_42919679527e3dd98af51e21dff72a646c5fd724/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/ee604176838a2423ff776b942d44af1e306add39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_15355126c57c75eb1dbc6851caa1757c940b7923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/f26b0642e2d3f4c427ab6657c8e261d90b2dda09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_4ef48f92941c21fb93b2a95939d015ffdbc9f3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/5c0961b8943a5396bcd9651b65ed126f0e18b785/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_ef2bc06699cf98938876d48e4b7bfb46972be89e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_1c2aca89d9ea91ecb96d4f7463078a54e0ecad29/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/3a2dd07b235398922a189e1e8be749373e5110a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_47d03db9990ec5d57b6fbd74767abd2e6c308004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d7ac33dbf4dcdf4acbd5dbe1e97a9ac3be8c3c05.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_d7ac33dbf4dcdf4acbd5dbe1e97a9ac3be8c3c05/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0aa349311382ea6638b380d6029c74fb8ae2d1b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/21aad5d731eb102a8088b3725a9f20fb2f3adc02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_6277b27a2f8c9549f7ca7272b8eab1dd3f177f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/john/.android/build-cache/cef87d9a4f3ee2d87a9ef1ebc6681d47278c1bad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/home/john/Android/Apps/AdastraProject/app/build/intermediates/pre-dexed/debug/classes_52881aa15c566f509b25ab159007e46bb1fbca33.jar" />
+    </item>
+
+</items>
